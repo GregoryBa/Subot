@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/moose/PycharmProjects/chatbot-1.16-ubuntu-tts/model.tflearn"
+all_model_checkpoint_paths: "/home/moose/PycharmProjects/chatbot-1.16-ubuntu-tts/model.tflearn"

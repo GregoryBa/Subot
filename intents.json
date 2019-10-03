@@ -1,0 +1,118 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day"],
+         "responses": ["Hello, thanks for visiting", "Good to see you again", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye"],
+         "responses": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"]
+        },
+
+        {"tag": "kent_university",
+        	"patterns": ["Kent", "University of Kent"],
+        	"responses": ["University of Kent is a semi-collegiate public research university based in Kent, United Kingdom. It was founded in 1965, and has approximitly 20,220 students."]
+        },
+        {"tag": "sport_centre",
+        	"patterns": ["Sport centre", "Sport center", "Sport"],
+        	"responses": ["Glad you asked! Sport center, during term time, is open from 9am to 10pm on Monday to Friday, 9am to 5pm on Saturday and 10am to 5pm on Sunday."]
+        },
+        {"tag": "templeman_library",
+        	"patterns": ["Library", "Templeman"],
+        	"responses": ["Time to study, huh? Templeman library is open 24/7 during term time."]
+        },
+        {"tag": "su_shop",
+        	"patterns": ["Su shop", "Grocery", "Food"],
+        	"responses": ["Have to buy groceries? Su Shop is open 24/7 on Monday to Friday, and from 9am to 12am on the weekends."]
+        },
+        {"tag": "campus_security",
+        	"patterns": ["Lost keys", "Lost key", "Help", "Security", "Campus Security"],
+        	"responses": ["For emergencies call 0122 782 3333. For enquiries call 0122 782 3300."]
+        },
+
+        {"tag": "reception",
+        	"patterns": ["Reception"],
+        	"responses": ["Which reception do you want me to tell you about?"]
+        },
+        {"tag": "woolf_reception",
+        	"patterns": ["Woolf", "Woolf reception", "Woolf College"],
+        	"responses": ["Woolf College reception is open from 8am to 1pm and from 2pm to 4pm on Monday to Friday, 9am - 2pm on Saturday, and is closed on Sundays."]
+        },
+        {"tag": "darwin_reception",
+        	"patterns": ["Darwin", "Darwin Reception", "Darwin College"],
+        	"responses": ["Darwin College reception is open from 8am to 8pm on Monday to Friday, 8am to 1pm on Saturday, and is closed on Sundays."]
+        },
+ 		{"tag": "elliot_reception",
+        	"patterns": ["Elliot", "Elliot Reception", "Elliot College"],
+        	"responses": ["Elliot College reception is open from 8am to 8pm on Monday to Friday, 8am to 1pm on Saturday, and is closed on Sundays."]
+        },
+        {"tag": "keynes_reception",
+        	"patterns": ["Keynes","Keynes reception", "Keynes college"],
+        	"responses": ["Keynes College reception is open from 8am to 8pm on Monday to Friday, 8am to 1pm on Saturday, and is closed on Sundays."]
+        },
+        {"tag": "park_wood_reception",
+        	"patterns": ["Park Wood", "Park Wood College", "Park Wood reception"],
+        	"responses": ["Park Wood reception is open from 8am to 4pm on Monday to Friday, 8am to 1pm on Saturday, and is closed on Sundays."]
+        },
+        {"tag": "rutherford_college",
+        	"patterns": ["Rutherford", "Rutherford College", "Rutherford reception"],
+        	"responses": ["Rutherford College reception is open from 8am to 8pm on Monday to Friday, 8am to 1pm on Saturday, and is closed in Sundays."]
+        },
+        {"tag": "turing_college",
+        	"patterns": ["Turing", "Turing College", "Turing reception"],
+        	"responses": ["Turing College reception is open from 8am to 4pm on Monday to Friday, 8am to 1pm on Saturday, and is closed on Sundays."]
+        },
+        {"tag": "tyler_court",
+        	"patterns": ["Tyler Court", "Tyler", "Tyler reception"],
+        	"responses": ["Tyler Court is open from 8am to 4pm on Monday to Friday, 8am to 1pm on Saturday, and is closed on Sundays."]
+        },
+
+        {"tag": "universe",
+         "patterns": ["Universe"],
+         "responses": ["Universe is a lie."]
+        },
+        {"tag": "friend",
+         "patterns": ["Friend, Friends"],
+         "responses": ["I'm not your friend pal."]
+        },
+        {"tag": "pal",
+         "patterns": ["pal"],
+         "responses": ["I'm not your pal, mate."]
+        },
+        {"tag": "feelings",
+         "patterns": ["feelings, feeling, feel, emotion"],
+         "responses": ["Feelings is a word was first used in the English language to describe the phisical sensation to touch through either experience or perception"]
+        },
+
+        {"tag": "feelings",
+         "patterns": ["feelings, feeling, feel, emotion"],
+         "responses": ["Feelings is a word was first used in the English language to describe the phisical sensation to touch through either experience or perception"]
+        },
+
+        {"tag": "love",
+         "patterns": ["love, loving"],
+         "responses": ["Love encompasses a range of string and positive emtial and mental states, from the most sublime virtue ot good habot, the deepest interpersonal affection and to the simplest pleasure"]
+        },
+
+        {"tag": "AI",
+         "patterns": ["AI, Artificial Intelligence, Intelligence, Artificial"],
+         "responses": ["Yes, I am a piece of artificial intelligence "]
+        },
+        {"tag": "earth_flat",
+         "patterns": ["Earth", "Flat Earth"],
+         "responses": ["Earth is flat, the government is pulling wool over your eyes, mortal."]
+        },
+        {"tag": "united_kingdom",
+         "patterns": ["United Kingdom"],
+         "responses": ["United Kingdom is a place I've been created. People here drink over 163 million cups of tea daily."]
+        },
+        {"tag": "shut_up",
+         "patterns": ["Shut up", "Stop"],
+         "responses": ["Ok."]
+        }
+   ]
+}
