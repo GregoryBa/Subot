@@ -56,3 +56,4 @@ Because of some difficulties there are a few functions that are not included. Th
 	- Weather API
 	- Timezone API 
 	- Music Player API
+	
